@@ -1,0 +1,23 @@
+/* src/popup/popup.css */
+body {
+    width: 200px;
+    min-height: 350px;
+    margin: 0;
+    padding: 15px;
+    font-family: Arial, sans-serif;
+    background-color: rgb(17, 16, 16);
+    color: antiquewhite;
+  }
+
+h4{
+    background-color: rgb(151, 97, 27);
+}
+.test{
+    color: aqua;
+}
+
+.beispiel{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    color: brown;
+}
